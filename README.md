@@ -1,3 +1,3 @@
 # Java_basico
 
-Repositorio com meus priemiros passos no Java
+Repositorio com meus primeiros passos no Java
