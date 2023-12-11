@@ -1,3 +1,3 @@
 # Java_basico
 
-FAZ O L
+Repositorio com meus priemiros passos no Java
